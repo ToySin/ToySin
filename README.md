@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @ToySin
+- 👀 I’m interested in Security and Server
+- 🌱 I’m currently learning C/C++, Js
+- 📫 Welcome my instargram @talented_bin
+
+<!---
+ToySin/ToySin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
