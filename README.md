@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ToySin
-- 👀 I’m interested in Security and Server
+- 👀 I’m interested in AI and Data analysis
 - 🌱 I’m currently learning C/C++, Js
 - 📫 Welcome my instargram @talented_bin
 
