@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ToySin
 - 👀 I’m interested in AI and Data analysis
-- 🌱 I’m currently learning C/C++, Js
+- 🌱 I’m currently learning C/C++, Python, R
 - 📫 Welcome my instargram @talented_bin
 
 <!---
