@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @ToySin
-- 👀 I’m interested in AI and Data analysis
-- 🌱 I’m currently learning C/C++, Python, R
-- 📫 Welcome my instargram @talented_bin
-
-<!---
-ToySin/ToySin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToySin)](https://github.com/anuraghazra/github-readme-stats) 
