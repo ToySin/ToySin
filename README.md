@@ -3,6 +3,10 @@
 
 # 👋 Hi, I’m @ToySin
 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
+
+</br>
+
 - 👀 Welcome my <a href="https://www.instagram.com/talented_bin/?hl=ko"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/talented_bin/?hl=ko"></a>
 - 🙌 Welcome my <a href="https://velog.io/@toysin1203"><img src="https://img.shields.io/badge/Velog-4FC08D?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@toysin1203"></a>
 
@@ -17,3 +21,10 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shkk0628)](https://solved.ac/shkk0628)
 
+<!--
+
+<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
+
+https://simpleicons.org/
+
+-->
