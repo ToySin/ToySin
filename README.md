@@ -3,20 +3,17 @@
 
 # 👋 Hi, I’m @ToySin
 
-[![donshin's 42 stats](https://badge42.herokuapp.com/api/stats/donshin)](https://github.com/JaeSeoKim/badge42)
-
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/donshin/project_name)](https://github.com/JaeSeoKim/badge42)
-
-
-
-- 👀 Welcome my instargram @talented_bin
+- 👀 Welcome my <a href="https://www.instagram.com/talented_bin/?hl=ko"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/talented_bin/?hl=ko"></a>
+- 🙌 Welcome my <a href="https://velog.io/@toysin1203"><img src="https://img.shields.io/badge/Velog-4FC08D?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@toysin1203"></a>
 
 - - -
 
-<div align="center">
+### I'm currently in 42Seoul (2021.11.08 ~ )
+[![donshin's 42 stats](https://badge42.herokuapp.com/api/stats/donshin)](https://github.com/JaeSeoKim/badge42)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToySin&layout=compact&exclude_repo=Titanic)](https://github.com/anuraghazra/github-readme-stats)  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shkk0628)](https://solved.ac/shkk0628)
+- - -
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToySin&show_icons=true&theme=dracula)
 
-</div>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shkk0628)](https://solved.ac/shkk0628)
+
