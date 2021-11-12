@@ -1,8 +1,15 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5&height=300&section=header&text=DongBin&fontSize=80&animation=scaleIn)
+
+
 # 👋 Hi, I’m @ToySin
 
-- 👀 I’m interested in (NULL)
-- 🌱 I’m currently learning C/C++, Python, R
-- 📫 Welcome my instargram @talented_bin
+[![donshin's 42 stats](https://badge42.herokuapp.com/api/stats/donshin)](https://github.com/JaeSeoKim/badge42)
+
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/donshin/project_name)](https://github.com/JaeSeoKim/badge42)
+
+
+
+- 👀 Welcome my instargram @talented_bin
 
 - - -
 
