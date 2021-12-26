@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5&height=300&section=header&text=DongBin&fontSize=80&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5&height=300&section=header&text=Welcome!&fontSize=80&animation=scaleIn)
 
 
-# 👋 Hi, I’m @ToySin
+# 👋 Hi, I’m @Dongbin Shin
 ![StandingOvationGIF (2)](https://user-images.githubusercontent.com/40738437/143273133-717e9c33-b986-4b24-a920-df96b5e69626.gif)
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
