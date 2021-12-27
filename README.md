@@ -12,14 +12,6 @@
 - 🙌 Welcome my <a href="https://velog.io/@toysin1203"><img src="https://img.shields.io/badge/Velog-4FC08D?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@toysin1203"></a>
 - 🖥️ Welcome my <a href="https://profile.intra.42.fr/users/donshin"><img src="https://img.shields.io/badge/42-c64c4b?style=flat-square&logo=42&logoColor=white"/>
 
-
-
-
-- - -
-
-### I'm currently in 42Seoul (2021.11.08 ~ )
-[![donshin's 42 stats](https://badge42.herokuapp.com/api/stats/donshin)](https://github.com/JaeSeoKim/badge42)
-
   
 <!--
 
