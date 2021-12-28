@@ -9,7 +9,7 @@
 </br>
 
 - 👀 Welcome my <a href="https://www.instagram.com/talented_bin/?hl=ko"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/talented_bin/?hl=ko"></a>
-- 🙌 Welcome my <a href="https://velog.io/@toysin1203"><img src="https://img.shields.io/badge/Velog-4FC08D?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@toysin1203"></a>
+- 🙌 Welcome my <a href="https://south-quokka-5fd.notion.site/Engineering-Wiki-a59212bf40e14a34802c93888d3507ef"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://south-quokka-5fd.notion.site/Engineering-Wiki-a59212bf40e14a34802c93888d3507ef"></a>
 - 🖥️ Welcome my <a href="https://profile.intra.42.fr/users/donshin"><img src="https://img.shields.io/badge/42-c64c4b?style=flat-square&logo=42&logoColor=white"/>
 
   
