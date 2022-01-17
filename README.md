@@ -5,13 +5,14 @@
 <h1> 👋 Hi, I’m @Dongbin Shin</h1>
 <img src="https://user-images.githubusercontent.com/40738437/143273133-717e9c33-b986-4b24-a920-df96b5e69626.gif" />
 
+### ✨ Sir Brags-a-lot!
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
 
+### 🩲 I'm beginner in
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 
-### 🩲 And...
-|I'm currently studying|And then|
-|:---:|:---:|
-|<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>|<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>|
+### 📢 I'm going to...
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
 - - -
 
