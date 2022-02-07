@@ -22,7 +22,7 @@
 ### 👀 Welcome my...
 <a href="https://www.instagram.com/talented_bin/?hl=ko"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/talented_bin/?hl=ko"></a>
 <a href="https://south-quokka-5fd.notion.site/Engineering-Wiki-a59212bf40e14a34802c93888d3507ef"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://south-quokka-5fd.notion.site/Engineering-Wiki-a59212bf40e14a34802c93888d3507ef"></a>
-<a href="https://profile.intra.42.fr/users/donshin"><img src="https://img.shields.io/badge/42-c64c4b?style=for-the-badge&logo=42&logoColor=white"/>
+
 
 </div>
 
@@ -52,6 +52,8 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shkk0628)](https://solved.ac/shkk0628)
 
+
+<a href="https://profile.intra.42.fr/users/donshin"><img src="https://img.shields.io/badge/42-c64c4b?style=for-the-badge&logo=42&logoColor=white"/>
 -->
 
 <!--
