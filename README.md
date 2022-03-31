@@ -20,7 +20,7 @@
 I'm basket case...:(
 
 ### 🌧 I'm beginner in
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=ç&logo=Spring&logoColor=black"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=√&logo=Spring Boot&logoColor=black"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=ç&logo=Spring&logoColor=black"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=√&logo=Spring Boot&logoColor=black"/> <img src="https://img.shields.io/badge/NGINX-009639?style=√&logo=NGINX&logoColor=black"/>
 
 - - -
 
