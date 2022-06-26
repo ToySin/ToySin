@@ -16,7 +16,7 @@
 - 세종대학교 컴퓨터공학과
 - 42 Seoul (2021.09 ~ )
 - UMC 2nd (2022.03 ~ 2022.05)
-- LMS project 2nd (2022.05 ~ 2022.07)
+- LMS project 2nd (2022.06 ~ 2022.07)
 
 ### ✨ Sir Brags-a-lot!
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> 
