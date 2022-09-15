@@ -29,6 +29,7 @@
 - - -
 
 ### 👀 Welcome my
+<a href="https://south-quokka-5fd.notion.site/Log-kevin-shin-caa80c5716eb4960ad088e9168095f4e"><img src="https://img.shields.io/badge/New!-000000?style=social&logo=Notion&logoColor=black&link=https://south-quokka-5fd.notion.site/Log-kevin-shin-caa80c5716eb4960ad088e9168095f4e"></a>
 <a href="https://south-quokka-5fd.notion.site/Engineering-Wiki-a59212bf40e14a34802c93888d3507ef"><img src="https://img.shields.io/badge/Tech-000000?style=social&logo=Notion&logoColor=black&link=https://south-quokka-5fd.notion.site/Engineering-Wiki-a59212bf40e14a34802c93888d3507ef"></a>
 
 <a href="https://www.instagram.com/talented_bin/?hl=ko"><img src="https://img.shields.io/badge/With me-E4405F?style=social&logo=Instagram&logoColor=black&link=https://www.instagram.com/talented_bin/?hl=ko"></a>
