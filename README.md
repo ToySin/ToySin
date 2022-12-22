@@ -16,6 +16,7 @@
 - 세종대학교 컴퓨터공학과
 - 42 Seoul (2021.09 ~ 2022.08)
 
+<!--
 ### ✨ Skills
 #### Language
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Openjdk&logoColor=white"/>
@@ -25,6 +26,7 @@
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
 #### Database
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>
+-->
 
 - - -
 
