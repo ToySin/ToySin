@@ -10,7 +10,17 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/40738437/143273133-717e9c33-b986-4b24-a920-df96b5e69626.gif"/>
 </div>
+
+
+### 👀 Welcome my
+<a href="https://south-quokka-5fd.notion.site/Log-kevin-shin-caa80c5716eb4960ad088e9168095f4e"><img src="https://img.shields.io/badge/New!-000000?style=social&logo=Notion&logoColor=black&link=https://south-quokka-5fd.notion.site/Log-kevin-shin-caa80c5716eb4960ad088e9168095f4e"></a>
+<a href="https://south-quokka-5fd.notion.site/Engineering-Wiki-a59212bf40e14a34802c93888d3507ef"><img src="https://img.shields.io/badge/Tech-000000?style=social&logo=Notion&logoColor=black&link=https://south-quokka-5fd.notion.site/Engineering-Wiki-a59212bf40e14a34802c93888d3507ef"></a>
+
+<a href="https://www.instagram.com/talented_bin/?hl=ko"><img src="https://img.shields.io/badge/With me-E4405F?style=social&logo=Instagram&logoColor=black&link=https://www.instagram.com/talented_bin/?hl=ko"></a>
+
+
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5&height=300&section=header&text=동빈깃허브&fontSize=80&animation=scaleIn)
 
 # 👋 Hi, I’m @Dongbin Shin
 - 세종대학교 컴퓨터공학과
@@ -29,12 +39,7 @@
 -->
 
 - - -
-
-### 👀 Welcome my
-<a href="https://south-quokka-5fd.notion.site/Log-kevin-shin-caa80c5716eb4960ad088e9168095f4e"><img src="https://img.shields.io/badge/New!-000000?style=social&logo=Notion&logoColor=black&link=https://south-quokka-5fd.notion.site/Log-kevin-shin-caa80c5716eb4960ad088e9168095f4e"></a>
-<a href="https://south-quokka-5fd.notion.site/Engineering-Wiki-a59212bf40e14a34802c93888d3507ef"><img src="https://img.shields.io/badge/Tech-000000?style=social&logo=Notion&logoColor=black&link=https://south-quokka-5fd.notion.site/Engineering-Wiki-a59212bf40e14a34802c93888d3507ef"></a>
-
-<a href="https://www.instagram.com/talented_bin/?hl=ko"><img src="https://img.shields.io/badge/With me-E4405F?style=social&logo=Instagram&logoColor=black&link=https://www.instagram.com/talented_bin/?hl=ko"></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToySin&show_icons=true&theme=kacho_ga)
 
 <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=shkk0628"/>
   
