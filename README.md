@@ -39,7 +39,7 @@
 -->
 
 - - -
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToySin&show_icons=true&theme=kacho_ga)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToySin&show_icons=true&count_private=true)
 
 <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=shkk0628"/>
   
