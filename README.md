@@ -42,6 +42,7 @@
 ## Interested but not ASAP
 - System/DevOps
 - Swift Applications
+- Deploy services through debian package manager
 
 ## List
 Go, Java, C, Python
