@@ -24,6 +24,7 @@
 -->
 # 👋 Hi, I’m @Dongbin Shin
 
+<!--
 ## Skills
 - I can develop gRPC servers and micro services with Golang and build them using Bazel.
 - I can deploy services as containerized images on the cloud using the console.
@@ -51,6 +52,7 @@ GCP, AWS
 Docker
 Cloud Spanner, MySQL
 Redis, MQTT, AMQP
+-->
 
 <!--
 ### ✨ Skills
