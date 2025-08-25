@@ -24,6 +24,9 @@
 -->
 # 👋 Hi, I’m @Dongbin Shin
 
+Works in BearRobotics.
+https://github.com/dongbin-bear
+
 <!--
 ## Skills
 - I can develop gRPC servers and micro services with Golang and build them using Bazel.
