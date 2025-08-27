@@ -22,10 +22,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5&height=300&section=header&text=동빈깃허브&fontSize=80&animation=scaleIn)
 -->
-# 👋 Hi, I’m @Dongbin Shin
+## 👋 Hi, I’m @Dongbin Shin
 
 Works in BearRobotics.
-https://github.com/dongbin-bear
 
 <!--
 ## Skills
